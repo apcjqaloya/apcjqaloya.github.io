@@ -1,21 +1,8 @@
-<!DOCTYPE html>
-
-<html>
-<body>
-
 body {
   background-color: lightblue;
 }
 
 h3 {
-  color: white;
-  text-align: center;
+  color: navy;
+  margin-left: 20px;
 }
-
-p {
-  font-family: verdana;
-  font-size: 20px;
-}
-
-</body>
-</html>
